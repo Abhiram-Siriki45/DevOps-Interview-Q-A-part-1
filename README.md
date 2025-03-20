@@ -33,7 +33,7 @@
 
   - A: Organizations these days are trying to transport small features to customers via a series of release trains instead of releasing big feature sets. There are several benefits of doing so, including better software quality and quick customer feedback.
 
-  - All such benefits lead to a higher level of customer satisfaction, which is the most important goal for any product development project. To do so, companies need to:
+  - All such benefits lead to a Higher level of customer satisfaction, which is the most important goal for any product development project. To do so, companies need to:
 
       - Increase deployment frequency
       - Lessen lead time between fixes
