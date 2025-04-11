@@ -40,7 +40,7 @@
       - Lower failure rate of new releases
       - In case of new release crashing, have a faster mean time to recovery
 
-  - DevOps helps in fulfilling all these requirements and thus, achieving seamless software delivery. Full-fledged organizations like Amazon, Etsy, and Google have adopted DevOps methodology resulting in achieving performance levels that were previously uncharted.
+  - DevOps helps in fulfilling all these requirements and thus, achieving seamless software delivery. Full-Fledged organizations like Amazon, Etsy, and Google have adopted DevOps methodology resulting in achieving performance levels that were previously uncharted.
 
   - With the adoption of DevOps methodology, organizations are able to accomplish tens to thousands of deployments in a single day. Moreover, doing so while offering first-rate reliability, security, and stability.
 
