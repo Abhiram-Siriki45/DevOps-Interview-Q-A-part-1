@@ -14,7 +14,7 @@
 ## 👉DevOps Interview Questions:
 
 
-- Q1) Can you tell us the fundamental differences between DevOps & Agile?
+- Q1) Can you tell us the fundamental Differences between DevOps & Agile?
   - A: Although DevOps shares some similarities with the Agile methodology, Which is one of the most popular SDLC methodologies, both are fundamentally different approaches to software development. Following are the various fundamental differences between the two:
 
     - Agile Approach – The Agile approach is only meant for development in Agile while the Devops approach is meant for both development and operations in DevOps.
